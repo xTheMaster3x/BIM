@@ -1,0 +1,10 @@
+Package: com.xtm3x.bingbong
+Name: BIM
+Depends: mobilesubstrate
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: In-App browser for the Messages app.
+Maintainer: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Author: xTheMaster3x
+Section: Tweaks
